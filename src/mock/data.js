@@ -51,7 +51,7 @@ export const projectsData = [
     info: 'REST API for random Britney Spears Quotes {RESTney!}',
     info2: 'Technologies: Flask-RESTful, Python(Requests Library) and Docker',
     url: 'https://britney.rest/',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/andrewnashed/britney.rest', // if no repo, the button will not show up
   },
 ];
 
