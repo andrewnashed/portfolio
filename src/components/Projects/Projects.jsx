@@ -49,14 +49,14 @@ const Projects = () => {
                         </p>
                         <p className="mb-4">{info2 || ''}</p>
                       </div>
-                      <a
+                     {url ? (<a
                         target="_blank"
                         rel="noopener noreferrer"
                         className="cta-btn cta-btn--hero"
                         href={url || '#!'}
                       >
-                        See Live
-                      </a>
+                      See Live
+                      </a>) : (<span className=" text-color-main" style={{"fontSize": "1.5rem", "fontWeight":"bold","color": "#793fc1"}}>Website Not Available</span>)}
 
                       {repo && (
                         <a

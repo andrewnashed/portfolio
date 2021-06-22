@@ -37,6 +37,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'farm.jpg',
+    title: 'Todo App',
+    info: 'Todo app that allows user to add a todo and delete it',
+    info2: 'Technologies: FastAPI, React and MongoDB',
+    url: '',
+    repo: 'https://github.com/andrewnashed/todoapp-FARM', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'Cryptico.png',
     title: 'Cryptico Blog',
     info: 'Cryptico Blog A Blog web app that allows admin to add post and for users to create an account and to leave comments to the post',
