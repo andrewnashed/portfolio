@@ -76,11 +76,6 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: 'https://twitter.com/andrew_nashed_',
-    },
-    {
-      id: nanoid(),
       name: 'linkedin',
       url: 'https://www.linkedin.com/in/andrew-nashed-210161166',
     },
