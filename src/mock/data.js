@@ -19,13 +19,39 @@ export const heroData = {
 export const aboutData = {
   img: 'avatar.jpg',
   paragraphOne: "Hello! My name is Andrew Nashed and I am a full-stack web developer based in New York City. I enjoy building Python and React applictations.",
-  paragraphTwo: ' A graduate of Obour High Institute for Engineering and Technology with a BFS in Civil Engineering, I am currently freelancing, as well as working on a project called Addons Matrix.',
+  paragraphTwo: ' A graduate of Obour High Institute for Engineering and Technology with a BFS in Civil Engineering, I am currently freelancing.',
   paragraphThree: '',
   resume: 'https://drive.google.com/file/d/1OW6oScUpz5ja27vDuWLjhQhQ8DndEKbr/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id:nanoid(),
+    img: 'Amournoir.png',
+    title: 'Amournoir.art E-Commerce',
+    info: 'E-Commerce that shows unique brand identity and allows customers to add items to cart and checkout.',
+    info2: 'Technologies: JavaScript, React, NextJs',
+    url:'https://skinfly-nextjs-commercejs.vercel.app',
+    repo: '',
+  },  {
+    id:nanoid(),
+    img: 'Mhr.png',
+    title: 'MHR Homes',
+    info: 'Real-estate website that allows client to check latest listings, sign up and submit reviews',
+    info2: 'Technologies: JavaScript, React, NextJs, Python, Flask ',
+    url:'https://mhr-nextjs.vercel.app/',
+    repo: '',
+  },
+  {
+    id:nanoid(),
+    img: 'skinfly.png',
+    title: 'Online E-Commerce Shop for Skincare company',
+    info: 'E-Commerce that shows unique brand identity and allows customers to add items to cart and checkout.',
+    info2: 'Technologies: JavaScript, React, NextJs, Commerce.js(Headless CMS)',
+    url:'https://skinfly-nextjs-commercejs.vercel.app',
+    repo: 'https://github.com/andrewnashed/skinfly-nextjs-commercejs',
+  },
   {
     id: nanoid(),
     img: 'Phantatech.png',
@@ -35,15 +61,15 @@ export const projectsData = [
     url: 'https://phantatech.herokuapp.com/',
     repo: 'https://github.com/andrewnashed/estore', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'farm.jpg',
-    title: 'Todo App',
-    info: 'Todo app that allows user to add a todo and delete it',
-    info2: 'Technologies: FastAPI, React and MongoDB',
-    url: '',
-    repo: 'https://github.com/andrewnashed/todoapp-FARM', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'farm.jpg',
+  //   title: 'Todo App',
+  //   info: 'Todo app that allows user to add a todo and delete it',
+  //   info2: 'Technologies: FastAPI, React and MongoDB',
+  //   url: '',
+  //   repo: 'https://github.com/andrewnashed/todoapp-FARM', // if no repo, the button will not show up
+  // },
   {
     id: nanoid(),
     img: 'Cryptico.png',
