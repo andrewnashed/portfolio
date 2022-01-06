@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id:nanoid(),
-    img: 'Amournoir.png',
+    img: 'amournoir.png',
     title: 'Amournoir.art E-Commerce',
     info: 'E-Commerce that shows unique brand identity and allows customers to add items to cart and checkout.',
     info2: 'Technologies: JavaScript, React, NextJs',
