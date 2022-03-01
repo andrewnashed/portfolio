@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'avatar.jpg',
-  paragraphOne: "Hello! My name is Andrew Nashed and I am a full-stack web developer based in New York City. I enjoy building Python and React applications.",
-  paragraphTwo: ' A graduate of Obour High Institute for Engineering and Technology with a BFS in Civil Engineering, I am currently freelancing as well as writing technical articles on Medium.',
-  paragraphThree: '',
+  paragraphOne: "My name is Andrew Nashed and I am a full-stack web developer with an eye for design and a background in engineering and sales.",
+  paragraphTwo: 'I enjoy building Websites and Web applications with Next.js, React.js, Flask, PostgreSQL, and Docker',
+  paragraphThree: 'A graduate of Obour High Institute for Engineering and Technology with a BFS in Civil Engineering, I am currently freelancing as well as writing technical articles on Medium.',
   resume: 'https://drive.google.com/file/d/1OW6oScUpz5ja27vDuWLjhQhQ8DndEKbr/view?usp=sharing', // if no resume, the button will not show up
 };
 
