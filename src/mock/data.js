@@ -110,6 +110,11 @@ export const footerData = {
       name: 'github',
       url: 'https://github.com/andrewnashed/',
     },
+    {
+      id: nanoid(),
+      name: 'twitter',
+      url: 'https://twitter.com/andrewtries',
+    },
   ],
 };
 
