@@ -115,6 +115,11 @@ export const footerData = {
       name: 'twitter',
       url: 'https://twitter.com/andrewtries',
     },
+    {
+      id: nanoid(),
+      name: 'medium',
+      url: 'https://medium.com/@nashedandrew5',
+    },
   ],
 };
 
