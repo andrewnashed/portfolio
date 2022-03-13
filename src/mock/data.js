@@ -120,6 +120,11 @@ export const footerData = {
       name: 'medium',
       url: 'https://medium.com/@nashedandrew5',
     },
+    {
+      id: nanoid(),
+      name: 'instagram',
+      url: 'https://www.instagram.com/codingpharoh/',
+    },
   ],
 };
 
