@@ -31,7 +31,7 @@ export const projectsData = [
     img: 'amournoir1.png',
     title: 'Amournoir.art E-Commerce',
     info: 'E-Commerce that shows unique brand identity and allows customers to add items to cart and checkout.',
-    info2: 'Technologies: JavaScript, React, NextJs',
+    info2: 'Technologies: JavaScript, React, NextJs and CSS',
     url:'https://skinfly-nextjs-commercejs.vercel.app',
     repo: '',
   },  {
