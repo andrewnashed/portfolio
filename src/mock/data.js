@@ -125,6 +125,11 @@ export const footerData = {
       name: 'instagram',
       url: 'https://www.instagram.com/codingpharoh/',
     },
+    {
+      id: nanoid(),
+      name: 'youtube',
+      url: 'https://www.youtube.com/channel/UCTi93-fwwQr1B-j_NnnQ4fw',
+    },
   ],
 };
 
