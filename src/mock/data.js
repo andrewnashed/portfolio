@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'avatar.jpg',
   paragraphOne: "Hi, I am Andrew, a Full-Stack web developer with an eye for design and a sales and civil engineering background. I am open to hearing from companies hiring for Front-end, Back-end, and Full-Stack developer roles.",
   paragraphTwo: 'I enjoy building Websites and Web applications with Next.js, React.js, Flask, PostgreSQL, and Docker.',
-  paragraphThree: 'A graduate of Obour High Institute for Engineering and Technology with a BFS in Civil Engineering, I am currently freelancing and writing technical articles on Medium.',
+  paragraphThree: 'A graduate of Obour High Institute for Engineering and Technology with a BEng in Civil Engineering, I am currently freelancing and writing technical articles on Medium.',
   resume: 'https://drive.google.com/file/d/1OW6oScUpz5ja27vDuWLjhQhQ8DndEKbr/view?usp=sharing', // if no resume, the button will not show up
 };
 
