@@ -39,7 +39,7 @@ export const projectsData = [
     img: 'Mhr.png',
     title: 'MHR Homes',
     info: 'Real-estate website that allows client to check latest listings, sign up and submit reviews',
-    info2: 'Technologies: JavaScript, React, NextJs, Python, Flask ',
+    info2: 'Technologies: JavaScript, React, NextJs, Python, Flask, and PostgreSQL ',
     url:'https://mhr-nextjs.vercel.app/',
     repo: '',
   },
